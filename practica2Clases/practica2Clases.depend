@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1573064314 source:d:\clases\practica2clases\main.cpp
+	<iostream>
+	<stdlib.h>
+	"conio.h"
+	"D:/CLASES/practica2Clases/include/empleado.h"
+
+1573064314 d:\clases\practica2clases\include\empleado.h
+	<iostream>
+
+1573063963 source:d:\clases\practica2clases\src\empleado.cpp
+	<stdio.h>
+	"D:/CLASES/practica2Clases/include/empleado.h"
+

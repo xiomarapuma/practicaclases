@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1573094309 source:d:\clases\practica1clases\main.cpp
+	<iostream>
+	"estudiante.h"
+	<stdlib.h>
+	"conio.h"
+
+1573094231 d:\clases\practica1clases\include\estudiante.h
+	<iostream>
+
+1573094334 source:d:\clases\practica1clases\src\estudiante.cpp
+	"estudiante.h"
+	<stdio.h>
+
